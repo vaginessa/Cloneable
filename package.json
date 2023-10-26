@@ -108,7 +108,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.23.2",
     "@babel/preset-env": "^7.5.5",
     "@vitejs/plugin-react": "^2.0.0",
     "autoprefixer": "^10.4.7",
